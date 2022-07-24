@@ -1,0 +1,184 @@
+<mjml>
+  <mj-head>
+  <mj-title>Origin Receipt</mj-title>
+    <mj-attributes>
+      <mj-all padding="0px" font-family="Arial, Helvetica, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-style inline="inline">a { text-decoration: none; }</mj-style>
+  </mj-head>
+  <mj-body background-color="#dddddd">
+    <mj-section full-width="full-width" background-color="#dddddd">
+     <mj-column width="100%" background-color="#1e252b">
+            <mj-text align="center" vertical-align="middle" padding-top="10px">
+                <a href="#" target="_blank" style="text-decoration: underline; color:#cecece; font-size:10px; text-align: center;">View online click here</a>
+            </mj-text>
+        </mj-column>
+     </mj-section>
+    <mj-section background-color="#1e252b">
+     <mj-group>
+      <mj-column width="50%" vertical-align="middle" padding="20px 20px">
+            <mj-image src="https://i.imgur.com/iLOGvUW.png" alt="Origin" padding-top="20px" padding-bottom="20px" width="113px" height="auto"/>
+        </mj-column>
+        <mj-column width="50%" vertical-align="middle" padding="20px 20px">
+            <mj-text align="right" color="#cecece" padding-top="10px">
+                RECEIPT
+            </mj-text>
+            <mj-text align="right" color="#cecece" padding-top="10px">
+                Order Number: &nbsp;&nbsp;
+                <b>1010101010101010</b>
+            </mj-text>
+            <mj-text align="right" color="#cecece" padding-top="10px">
+                Order Date: &nbsp;&nbsp;
+                <b>11/5/20</b>
+            </mj-text>
+        </mj-column>
+        </mj-group>
+    </mj-section>
+    <mj-section background-color="#1e252b">
+        <mj-column width="100%">
+            <mj-divider border-width="2px" border-color="#666666" padding-top="10px" />
+        </mj-column>
+        <mj-column width="100%">
+            <mj-text align="center" color="#ebf8ff" padding-top="40px" padding-right="30px" padding-bottom="40px" padding-left="30px" font-size="22px">
+                Thank You For Your Order!
+            </mj-text>
+            <mj-divider border-width="1px" border-color="#666666" />
+        </mj-column>
+    </mj-section>
+    <mj-section background-color="#1e252b">
+        <mj-column width="90%" background-color="#ffffff">
+            <mj-text padding-top="0" padding-bottom="30px" padding-right="20px" padding-left="20px" background-color="#ffffff">
+            </mj-text>
+            <mj-divider border-width="0.5px" border-color="#666666" width="100%" />
+        </mj-column>
+        <mj-column width="90%" background-color="#ffffff">
+        <mj-text padding-top="25px" padding-bottom="30px" padding-right="20px" padding-left="20px" background-color="#ffffff">
+            </mj-text>
+            <mj-divider border-width="1px" border-color="#666666" />
+        </mj-column>
+        <mj-column width="90%" background-color="#ffffff">
+        <mj-text color="#000000" padding-top="30px" padding-right="25px" padding-bottom="20px" padding-left="25px">
+            A receipt for your purchase is below. While certainly handy, it's not nearly as exciting as the game you just added to your library. 
+            Head over to the "My Game Library" tab in the Origin client to start playing!
+        </mj-text>
+        <mj-divider border-width="1px" border-color="#666666" />
+        <mj-text padding-top="0" padding-bottom="30px" padding-right="20px" padding-left="20px" background-color="#ffffff">
+            </mj-text>
+        </mj-column>
+        <mj-column width="100%" background-color="#1e252b">
+            <mj-text background-color="#1e252b" padding="0px 0px 25px">
+           </mj-text>
+        </mj-column>
+    </mj-section>
+    <mj-section>
+        <mj-column width="100%" background-color="#ff4747">
+            <mj-text background-color="#ff4747" padding="20px 30px">
+            </mj-text>
+            <mj-text align="center" vertical-align="top" color="#1e252b" font-size="20px">
+                <b>Order Summary</b>
+            </mj-text>
+            <mj-text padding-top="15px" padding-bottom="15px" color="#1e252b" font-size="13px" align="center">
+                <b>Payment Information</b><br>
+                  This.User@email.com
+            </mj-text>
+            <mj-divider border-width="2px" border-color="#1e252b" width="90%"/>
+        </mj-column>
+    </mj-section>
+    <mj-section background-color="#ff4747">
+        <mj-column padding="25px 30px" width="25%">
+        <mj-image src="https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/194908/142.0x200.0/1075830_MB_142x200_en_WW_%5E_2020-01-30-09-48-56_b877e2f03e2f7955fa247fa065311f7ac6098e43.jpg" alt="origin coins" width="90px" height="auto" align="left"/>
+        </mj-column>
+        <mj-column width="55%" padding="20px 5px">
+            <mj-text color="#1e252b" font-size="20px" align="left" vertical-align="top" padding-bottom="10px">
+                Apex Legends™ - 1,000 Apex Coins
+            </mj-text>
+            <mj-text color="#1e252b" font-size="13px" align="left" vertical-align="middle" padding-bottom="2px">
+                PC Download
+            </mj-text>
+            <mj-text color="#1e252b" font-size="13px" align="left" vertical-align="middle" padding-bottom="10px">
+                Origin Great Game Gaurentee: <a href="https://www.origin.com/usa/en-us/store/great-game-guarantee" target="_blank" style="text-decoration: underline; color:#1e252b">Not Eligible</a>
+            </mj-text>
+            <mj-text color="#1e252b" font-size="13px" align="left" vertical-align="middle">
+                Your content will be available for use the next time you launch your game.
+            </mj-text>
+        </mj-column>
+        <mj-column width="20%" padding="20px 25px 20px 10px">
+            <mj-text align="right" color="#1e252b" font-size="20px" vertical-align="middle">
+                $9.99
+            </mj-text>
+             <mj-text align="right" color="#1e252b" font-size="13px" vertical-align="middle">
+                Qty: 1
+            </mj-text>
+         </mj-column>
+         <mj-column width="100%">
+            <mj-divider border-width="2px" border-color="#1e252b" width="90%"/>
+         </mj-column>
+        </mj-section>
+        <mj-section background-color="#ff4747">
+        <mj-column padding="25px 40px">
+            <mj-table align="center" width="100%" color="#1e252b">
+                <tr>
+                    <td style="font-size:13px; padding:0px 5px 8px 0px; font-weight:500;">subtotal</td>
+                    <td style="font-size:13px"> $9.99</td>
+                </tr>
+                <tr>
+                    <td style="font-size:13px; padding:0px 5px 8px 0px; font-weight:500;"> Tax </td>
+                    <td style="font-size:13px"> $0.60 </td>
+                </tr>
+                <tr>
+                    <td style="font-size:13px; padding:12px 5px 0px 0px; font-weight:500;">Total Price</td>
+                    <td style="font-size:13px; font-weight: 500; padding-top:10px;"> $10.59</td>
+                </tr>
+                <tr>
+                    <td style="font-size:13px; padding:12px 5px 0px 0px; font-weight:500;"> PAID(VISA)ending in 1010 </td>
+                    <td style="font-size:13px; font-weight: 500; padding-top:10px;"> $10.59</td>
+                </tr>
+            </mj-table>
+            </mj-column>
+           =</mj-section>
+           <mj-section background-color="#1e252b">
+            <mj-column width="90%" padding="40px 30px 20px 30px">
+                <mj-text align="center" color="#ffffff" font-size="20px" font-weight="500" padding-bottom="25px">
+                    Please save this email for your records.
+                </mj-text>
+                <mj-text align="center" color="#ffffff" font-size="12px" font-weight="500" padding-bottom="20px">
+                    Check your order status at any time by logging in to your 
+                    <a href="https://signin.ea.com/p/juno/login?execution=e1231699904s1&initref=https%3A%2F%2Faccounts.ea.com%3A443%2Fconnect%2Fauth%3Finitref_replay%3Dfalse%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fmyaccount.ea.com%252Fcp-ui%252Faboutme%252Flogin%26locale%3Den_US%26client_id%3Dcustomer_portal" 
+                     target="_blank" style="text-decoration: underline; color:#ffffff;">EA Account</a>
+                </mj-text>
+                <mj-text align="center" color="#ffffff" font-size="12px" font-weight="500" padding-bottom="20px">
+                    Have a Question? We're here to <a href="https://help.ea.com/en/origin/origin/" target="_blank" style="text-decoration: underline; color:#ffffff;">help</a> 24/7.
+                </mj-text>
+                <mj-text align="center" color="#ffffff" font-size="12px" font-weight="400" padding-bottom="20px" line-height="25px">
+                    By making your purchase today, you authorize EA to charge the price stated above 
+                    (inclusive of applicable taxes based on billing address) to your payment method, and in 
+                    the case of subscriptions, on each renewal date. Subscribers: I may cancel my subscription at any time 
+                    <a href="https://signin.ea.com/p/juno/login?execution=e1231699905s1&initref=https%3A%2F%2Faccounts.ea.com%3A443%2Fconnect%2Fauth%3Finitref_replay%3Dfalse%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fmyaccount.ea.com%252Fcp-ui%252Faboutme%252Flogin%26locale%3Den_US%26client_id%3Dcustomer_portal" target="_blank" style="text-decoration: underline; color:#ffffff;">here</a>. 
+                    After cancellation, I can continue to play until the end of my subscription period.
+                </mj-text>
+                <mj-text align="center" color="#ffffff" font-size="12px" font-weight="500" padding-bottom="20px">
+                    Your purchase from EA is subject to EA's <a href="http://tos.ea.com/legalapp/termsofsale/US/en/PC/" target="_blank" style="text-decoration: underline; color:#ffffff;">Terms of Sale</a>.
+                </mj-text>
+                <mj-text align="center" color="#ffffff" font-size="12px" font-weight="500" padding-bottom="20px">
+                  <a href="http://tos.ea.com/legalapp/termsofsale/US/en/PC/" target="_blank" style="text-decoration: underline; color:#ffffff;">EA Play Terms and Conditions</a>.
+                </mj-text>
+                <mj-text align="center" color="#ffffff" font-size="12px" font-weight="500" padding-bottom="25px">
+                    Seller: Electronic Arts Inc. 209 Redwood Shores Parkway, Redwood City, CA 94065.
+                </mj-text>
+                <mj-text align="center" color="#ffffff" font-size="12px" font-weight="500" padding-bottom="25px">
+                    &#169; 2022 Electronic Arts Inc.
+                </mj-text>
+                 <mj-text align="center" color="#ffffff" font-size="12px" font-weight="500" padding-bottom="30px">
+                  <a href="https://www.ea.com/about" target="_blank" style="text-decoration: underline; color:#ffffff;">About Us</a> |
+                  <a href="http://tos.ea.com/legalapp/WEBPRIVACY/US/en/PC/" target="_blank" style="text-decoration: underline; color:#ffffff;">Privacy and Cookie Policy</a> |
+                  <a href="https://tos.ea.com/legalapp/WEBTERMS/US/en/PC/" target="_blank" style="text-decoration: underline; color:#ffffff;">User Agreement</a> |
+                  <a href="https://www.ea.com/legal" target="_blank" style="text-decoration: underline; color:#ffffff;">Legal</a>
+                </mj-text>
+                <mj-divider border-width="1px" border-color="#666666" width="100%" padding-bottom="0px"/>
+            </mj-column>
+            <mj-column width="100%" padding-bottom="20px">
+                <mj-image src="http://ea-newsletter-assets.s3.amazonaws.com/origin/rtm/images/EA-GRAYSCALE-ORIGIN.png" alt="EA | Origin" align="center" width="97px" height="auto"/>
+            </mj-column>
+           </mj-section>
+  </mj-body>
+</mjml>
